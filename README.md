@@ -56,7 +56,7 @@ Inicie o aplicativo
 
 ## Screenshots
 
-!<img src="image.png">
+<img src="image.png">
 
 ## Aprendizados
 
